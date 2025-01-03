@@ -1,4 +1,6 @@
 ## Zhi Ken hereeee!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zkgan03&label=Profile%20views&color=0e75b6&style=flat" alt="zkgan03" /> </p>
+
 - **We are all chosen ones**, **我们都是天选之子**
 - Love to sleep and rest but...  **Never Stop Learning**!
 
@@ -18,11 +20,14 @@
 - ⚡ Fun fact: ...
 -->
 
+### Connect With Me
+<a href="https://linkedin.com/in/zhikengan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zhikengan" height="30" width="40" /></a>
+
 
 ### Summary
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zkgan03&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=zkgan03&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkgan03&hide_title=true&layout=compact&theme=buefy" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkgan03&hide_title=true&layout=compact&theme=buefy" />
 </span>
