@@ -1,5 +1,5 @@
 ## Zhi Ken hereeee!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zkgan03&label=Profile%20views&color=0e75b6&style=flat" alt="zkgan03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zkgan03&label=Profile%20views&color=lightgrey&style=plastic" alt="zkgan03" /> </p>
 
 - **We are all chosen ones**, **我们都是天选之子**
 - Love to sleep and rest but...  **Never Stop Learning**!
