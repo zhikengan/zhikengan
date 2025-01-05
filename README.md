@@ -1,13 +1,15 @@
 ## Zhi Ken hereeee!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkgan03&label=Profile%20views&color=lightgrey&style=plastic" alt="zkgan03" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=48&duration=2000&pause=1000&color=247FA7&center=true&vCenter=true&random=true&width=1000&height=30&lines=REST+WELL;KEEP+LEARNING)](https://git.io/typing-svg)
+
 - **We are all chosen ones**, **我们都是天选之子**
 - Love to sleep and rest but...  **Never Stop Learning**!
 
 ### About me
 - 🎓 Bachelor of Software Engineering, Diploma in Computer Science
 - 🏫 TARUMT
-- 💻 Intersted in Image Processing, Artificial Intelligent and any Web / System / Mobile Development ! 
+- 💻 Intersted in Image Processing, Artificial Intelligent and any Web / System / Mobile Development! 
 
 <!-- 
 - 🔭 I’m currently working on ...
@@ -29,5 +31,5 @@
   <img align="" src="https://github-readme-stats.vercel.app/api?username=zkgan03&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy" />
 </span>
 <span>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkgan03&hide_title=true&layout=compact&theme=buefy" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkgan03&layout=compact&theme=buefy" />
 </span>
