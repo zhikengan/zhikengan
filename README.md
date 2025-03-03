@@ -10,7 +10,7 @@
 - 🎓 Bachelor of Software Engineering, Diploma in Computer Science
 - 🏫 TARUMT
 - 💻 Intersted in Image Processing, Artificial Intelligent and any Web / System / Mobile Development! 
-- 🌱 Currently learning React, Flutter and ASP.NET core 
+- 🌱 Road to fullstack developer in React + .NET
   
 <!-- 
 - 🔭 I’m currently working on ...
