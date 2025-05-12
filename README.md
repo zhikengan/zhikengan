@@ -1,4 +1,7 @@
 ## Zhi Ken hereeee!
+
+> <b>Check out my [Portfolio](https://zhikengan.pages.dev/) </b>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkgan03&label=Profile%20views&color=lightgrey&style=plastic" alt="zkgan03" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=60&duration=2000&pause=1000&color=247FA7&center=true&vCenter=true&random=true&width=1000&height=50&lines=REST+WELL;KEEP+LEARNING)](https://git.io/typing-svg)
