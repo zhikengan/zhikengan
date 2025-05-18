@@ -13,7 +13,7 @@
 - 🎓 Bachelor of Software Engineering, Diploma in Computer Science
 - 🏫 TARUMT
 - 💻 Intersted in Image Processing, Artificial Intelligent and any Web / System / Mobile Development! 
-- 🌱 Road to fullstack developer in React + .NET
+- 🌱 Road to fullstack developer in (React / Angular) + (.NET / Java) + CI/CD
   
 <!-- 
 - 🔭 I’m currently working on ...
